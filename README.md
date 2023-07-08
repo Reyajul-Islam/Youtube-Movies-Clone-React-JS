@@ -18,4 +18,6 @@ This project was developed using React JS and bootstrapped with [Create React Ap
 
 <img src="https://raw.githubusercontent.com/Reyajul-Islam/Youtube-Movies-Clone-React-JS-/main/public/channel-review.png" alt="Channel Review">
 
+For live preview click [here](https://youtube-movies-reactjs.netlify.app/)
+
 Note: This scripts for learning purpose.
