@@ -1,3 +1,3 @@
-# Youtube Movies Clone App (React JS)
+# Youtube Movies Clone (React JS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed using React JS and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
