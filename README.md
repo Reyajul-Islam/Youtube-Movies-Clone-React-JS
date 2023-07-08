@@ -17,3 +17,5 @@ This project was developed using React JS and bootstrapped with [Create React Ap
 ## Channel Review
 
 <img src="https://raw.githubusercontent.com/Reyajul-Islam/Youtube-Movies-Clone-React-JS-/main/public/channel-review.png" alt="Channel Review">
+
+Note: This scripts for learning purpose.
